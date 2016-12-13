@@ -1,3 +1,6 @@
+# require 'bundler/setup'
+# Bundler.require
+
 require 'active_record'
 include ActiveRecord::Tasks
 
